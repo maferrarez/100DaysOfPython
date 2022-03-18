@@ -54,6 +54,3 @@ elif((u == 0 and c == 1) or (c == 0 and u ==2) or (u == 1 and c == 2)):
 
 elif(u == c):
 	print("It's a tie.")
-
-
-
